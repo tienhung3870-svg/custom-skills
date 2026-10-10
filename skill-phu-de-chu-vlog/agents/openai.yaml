@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phụ đề chữ vlog"
+  short_description: "Dựng chữ vlog dày mà rõ, bám giọng và hành động."
+  default_prompt: "Dùng skill này để lập caption-beat sheet và dựng một scene vlog theo giọng cuối."
